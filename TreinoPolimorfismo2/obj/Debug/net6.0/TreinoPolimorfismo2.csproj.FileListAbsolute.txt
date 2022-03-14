@@ -1,0 +1,15 @@
+C:\Users\Raphael Scursoni\source\repos\TreinoPolimorfismo2\TreinoPolimorfismo2\bin\Debug\net6.0\TreinoPolimorfismo2.exe
+C:\Users\Raphael Scursoni\source\repos\TreinoPolimorfismo2\TreinoPolimorfismo2\bin\Debug\net6.0\TreinoPolimorfismo2.deps.json
+C:\Users\Raphael Scursoni\source\repos\TreinoPolimorfismo2\TreinoPolimorfismo2\bin\Debug\net6.0\TreinoPolimorfismo2.runtimeconfig.json
+C:\Users\Raphael Scursoni\source\repos\TreinoPolimorfismo2\TreinoPolimorfismo2\bin\Debug\net6.0\TreinoPolimorfismo2.dll
+C:\Users\Raphael Scursoni\source\repos\TreinoPolimorfismo2\TreinoPolimorfismo2\bin\Debug\net6.0\TreinoPolimorfismo2.pdb
+C:\Users\Raphael Scursoni\source\repos\TreinoPolimorfismo2\TreinoPolimorfismo2\obj\Debug\net6.0\TreinoPolimorfismo2.csproj.AssemblyReference.cache
+C:\Users\Raphael Scursoni\source\repos\TreinoPolimorfismo2\TreinoPolimorfismo2\obj\Debug\net6.0\TreinoPolimorfismo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raphael Scursoni\source\repos\TreinoPolimorfismo2\TreinoPolimorfismo2\obj\Debug\net6.0\TreinoPolimorfismo2.AssemblyInfoInputs.cache
+C:\Users\Raphael Scursoni\source\repos\TreinoPolimorfismo2\TreinoPolimorfismo2\obj\Debug\net6.0\TreinoPolimorfismo2.AssemblyInfo.cs
+C:\Users\Raphael Scursoni\source\repos\TreinoPolimorfismo2\TreinoPolimorfismo2\obj\Debug\net6.0\TreinoPolimorfismo2.csproj.CoreCompileInputs.cache
+C:\Users\Raphael Scursoni\source\repos\TreinoPolimorfismo2\TreinoPolimorfismo2\obj\Debug\net6.0\TreinoPolimorfismo2.dll
+C:\Users\Raphael Scursoni\source\repos\TreinoPolimorfismo2\TreinoPolimorfismo2\obj\Debug\net6.0\refint\TreinoPolimorfismo2.dll
+C:\Users\Raphael Scursoni\source\repos\TreinoPolimorfismo2\TreinoPolimorfismo2\obj\Debug\net6.0\TreinoPolimorfismo2.pdb
+C:\Users\Raphael Scursoni\source\repos\TreinoPolimorfismo2\TreinoPolimorfismo2\obj\Debug\net6.0\TreinoPolimorfismo2.genruntimeconfig.cache
+C:\Users\Raphael Scursoni\source\repos\TreinoPolimorfismo2\TreinoPolimorfismo2\obj\Debug\net6.0\ref\TreinoPolimorfismo2.dll
